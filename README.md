@@ -10,3 +10,5 @@ Uses bcrypt for Authentication.
 Click [here](https://chordtones.herokuapp.com/) to try it out.
 
 Screenshot:
+
+![Screenshot](chordtones-screenshot.jpg)
