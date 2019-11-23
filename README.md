@@ -1,4 +1,4 @@
-# Chordtones Server
+Chordtones Server
 -------------------
 
 Rails API server for Chordtones App.
